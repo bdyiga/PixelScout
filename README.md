@@ -1,8 +1,6 @@
 # ImgClassify
 This is a system that classifies images into categories (e.g., animals, vehicles, objects) using a convolutional neural network (CNN).
 
-# Updated Image Classification System Design Document
-
 ## 1. Introduction
 
 ### 1.1 Purpose
